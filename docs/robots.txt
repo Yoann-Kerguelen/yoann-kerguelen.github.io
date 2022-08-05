@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yoannkerguelen.netlify.app/sitemap.xml
+Sitemap: https://yoann-kerguelen.github.io/sitemap.xml
