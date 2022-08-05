@@ -1,0 +1,8 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()
+/*
+Content-Security-Policy: default-src 'self'; script-src 'report-sample' 'self' 'unsafe-inline'; style-src 'report-sample' 'self' https://bootswatch.com https://fonts.googleapis.com 'unsafe-inline'; object-src 'none'; base-uri 'self'; connect-src 'self' https://script.google.com https://script.googleusercontent.com http://api.mediastack.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://maps.google.com https://www.google.com; img-src 'self' data: https://upload.wikimedia.org; manifest-src 'self'; media-src 'self'; report-uri https://62e721a0e7a4e344fdd77681.endpoint.csper.io/?v=0; worker-src 'none'; upgrade-insecure-requests;
