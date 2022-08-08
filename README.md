@@ -1,2 +1,3 @@
 # yoann-kerguelen.github.io
-Let's code and HF
+Yoann Kerguelen Portfolio.
+Let's code and HF.
